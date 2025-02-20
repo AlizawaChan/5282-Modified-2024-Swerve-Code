@@ -1,0 +1,21 @@
+[
+  {
+    "type": "java",
+    "name": "jar (in project 2025 Swerve Drive)",
+    "extensions": [
+      {
+        "name": "Sim GUI",
+        "libName": "C:\\2025 Season Codes\\2025 Swerve Drive\\build\\jni\\release\\halsim_gui.dll",
+        "defaultEnabled": true
+      },
+      {
+        "name": "Use Real DriverStation",
+        "libName": "C:\\2025 Season Codes\\2025 Swerve Drive\\build\\jni\\release\\halsim_ds_socket.dll",
+        "defaultEnabled": false
+      }
+    ],
+    "environment": {},
+    "libraryDir": "C:\\2025 Season Codes\\2025 Swerve Drive\\build\\jni\\release",
+    "mainClassName": "frc.robot.Main"
+  }
+]
